@@ -1,0 +1,8 @@
+# Ignore all log file.
+**/*.log
+
+# Ignore __init__.py module file.
+__init__.py
+
+# Ignore script files.
+*.sh
