@@ -1,0 +1,8 @@
+{
+  "scenario_name": "nebula_DFL_2025_12_16_11_14_05",
+  "root_path": "/home/ubuntu/nebula",
+  "config_dir": "/nebula/app/config/nebula_DFL_2025_12_16_11_14_05",
+  "log_dir": "/nebula/app/logs/",
+  "cert_dir": "/nebula/app/certs/",
+  "env": null
+}
